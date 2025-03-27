@@ -6,6 +6,15 @@
 
 The Car Sales Project aims to provide an overview of key sales metrics and trends to help stakeholders assess overall business performance. This project focuses on important indicators like total sales, Total profit, Customer count, order volume, discount, and more applied. It allows users to compare year-on-year changes and analyze sales distribution across various channels.
 
+## Tools Used
+
+**Kaggle:** Used Kaggle to download datasets, providing a diverse range of data for analysis.
+
+**Python Libraries:** Utilized Python libraries like pandas and numpy for cleaning and preprocessing data.
+
+**Ms Power BI:** Leveraged MS Power BI to create interactive dashboards for visualizing and understanding data.
+
+**Ms Word:** Used MS Word to generate comprehensive reports, summarizing insights and findings from analysis.
 
 ## Key Metrics
 
