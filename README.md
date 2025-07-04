@@ -39,7 +39,7 @@ The trend of growing sales is slowed down by flat customer growth, especially in
 ## Let's Connect
 If you like this project, feel free to  star the repository and share your thoughts
 
-- [Linkedin](https://www.linkedin.com/in/sakib07q/)
+- [Linkedin](https://www.linkedin.com/in/sakibahmed007q/)
 - [E-mail](ahmedsakib540@gmail.com)
 
 ### Other Portfolio
